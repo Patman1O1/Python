@@ -1,0 +1,1 @@
+A hub for all my personal projects written in Python. Projects are divided into two categories: libraries and programs. Programs are independent projects that are executable while libraries are meant to be used alongside programs. Not much is here right now. I plan to do more Python projects in near future.
